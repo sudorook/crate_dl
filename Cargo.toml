@@ -4,7 +4,6 @@ version = "1.0.0"
 edition = "2021"
 description = "Crate to build local cargo cache."
 license = "MIT"
-license-file = "LICENSE"
 readme = "README.md"
 
 [dependencies]
