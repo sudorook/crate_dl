@@ -5,7 +5,7 @@
 [package]
 name = "crate_dl"
 version = "1.0.0"
-edition = "2021"
+edition = "2024"
 description = "Crate to build local cargo cache."
 license = "MIT"
 readme = "README.md"
